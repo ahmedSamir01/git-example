@@ -1,18 +1,16 @@
 # Changelog
 
-## [1.0.0] - 2024-12-25
+## [1.0.0] - 2024-12-27
 
-### Initialization
+### supervisor notification
 
-- Initial repository setup
-- Added README.md
-- Added CHANGELOG.md
+- add supervisor notification
 
-## [1.1.0] - Future Date
+## [1.0.1] - 2024-12-27
 
-### Added
+### supervisor notification fixes
 
-- First feature implementation
+- fix supervisor notification
 
 ## [1.1.1] - Future Date
 
